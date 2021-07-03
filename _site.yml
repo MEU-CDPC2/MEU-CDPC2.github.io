@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Ciencia de Datos para ciudades II"
   left:
-    - text: "Trabajo Práctico"
+    - text: "Trabajos Prácticos"
       href: TP.html
 output:
   html_document:

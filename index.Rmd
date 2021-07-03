@@ -10,8 +10,8 @@ output:
 library(knitr)
 ```
 
+<h3><a href="https://meu-cdpc2.github.io/TP.html">*Trabajos Prácticos*</a></h3>
 
-## *Trabajos Prácticos*<br/><br/>
 
 --------------------------------------
 
