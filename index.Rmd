@@ -1,5 +1,5 @@
 ---
-title: "SOUBIE EL #1"
+title: "Ciencia de Datos para Ciudades II"
 output:
   html_document:
     theme: spacelab
@@ -11,5 +11,22 @@ library(knitr)
 ```
 
 
-## VAMOS SOUBIE!!!
+## *Trabajos Prácticos*
 
+
+
+--------------------------------------
+
+
+
+
+### Santiago Soubié
+
+### Luis Emilio Tisocco
+
+-------------------------------------
+  
+
+#### Maestría en Economía Urbana 
+
+##### 2° Trimestre 2021
