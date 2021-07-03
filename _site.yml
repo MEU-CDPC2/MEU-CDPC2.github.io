@@ -3,9 +3,9 @@ output_dir: "."
 navbar:
   title: "Ciencia de Datos para ciudades II"
   left:
-    - text: "Trabajos Prácticos"
+    - text: "Trabajo Práctico"
       href: TP.html
 output:
   html_document:
     theme: united
-    highlight: textmate|
+    highlight: textmate

@@ -20,5 +20,12 @@ library(knitr)
 
 -------------------------------------
 
-#### Maestría en Economía Urbana 
+#### Maestría en Economía Urbana
 ##### 2° Trimestre 2021
+
+<br/>
+
+<img src="data/Universidad_Torcuato_Di_Tella_UTDT.png" alt="UTDT" size=1.5 style="width:300px;">
+
+<br/>
+
