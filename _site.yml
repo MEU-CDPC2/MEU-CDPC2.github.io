@@ -1,12 +1,8 @@
-name: "my-website"
+name: "CDPC2-MEU"
 output_dir: "."
 navbar:
-  title: "Mi sitio web"
+  title: "Ciencia de Datos para ciudades II"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Sobre mí"
-      href: about.html
     - text: "Cs de Datos II"
       href: TP.html
 output:
