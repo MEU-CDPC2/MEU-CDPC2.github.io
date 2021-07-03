@@ -1,7 +1,7 @@
 name: "CDPC2-MEU"
 output_dir: "."
 navbar:
-  title: "Ciencia de Datos para ciudades II"
+  title: "Ciencia de Datos para Ciudades II"
   left:
     - text: "Trabajos Prácticos"
       href: TP.html
