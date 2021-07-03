@@ -1,5 +1,5 @@
 ---
-title: "Ciencia de Datos para Ciudades II"
+title: "MEU"
 output:
   html_document:
     theme: spacelab
@@ -11,22 +11,14 @@ library(knitr)
 ```
 
 
-## *Trabajos Prácticos*
-
-
+## *Trabajos Prácticos*<br/><br/>
 
 --------------------------------------
 
-
-
-
 ### Santiago Soubié
-
 ### Luis Emilio Tisocco
 
 -------------------------------------
-  
 
 #### Maestría en Economía Urbana 
-
 ##### 2° Trimestre 2021
